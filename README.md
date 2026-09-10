@@ -24,6 +24,15 @@
 
 Коэффициенты ARDL были первоначально оценены в EViews и используются в Python как фиксированные параметры модели.
 
+## Запуск
+
+Установить необходимые библиотеки:
+
+```bash
+pip install pandas numpy matplotlib statsmodels openpyxl
+
+Запустить модель - python stress_test.py
+
 ## Структура проекта
 
 ```text
